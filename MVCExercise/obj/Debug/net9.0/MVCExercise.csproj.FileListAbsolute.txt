@@ -114,3 +114,4 @@ C:\Users\kayne\Desktop\repos\MVCExercise\MVCExercise\obj\Debug\net9.0\refint\MVC
 C:\Users\kayne\Desktop\repos\MVCExercise\MVCExercise\obj\Debug\net9.0\MVCExercise.pdb
 C:\Users\kayne\Desktop\repos\MVCExercise\MVCExercise\obj\Debug\net9.0\MVCExercise.genruntimeconfig.cache
 C:\Users\kayne\Desktop\repos\MVCExercise\MVCExercise\obj\Debug\net9.0\ref\MVCExercise.dll
+C:\Users\kayne\Desktop\repos\MVCExercise\MVCExercise\obj\Debug\net9.0\MVCExercise.sourcelink.json
